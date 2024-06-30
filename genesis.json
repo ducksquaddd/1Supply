@@ -1,0 +1,10 @@
+[
+	{
+		"program": "system",
+		"action": "kvStore",
+		"params": {
+			"key": "bc1pcw55t6vreurlflmxu8gyczxnzm52pmr99629hj0akm3nkgtetdkqkx6zek",
+			"value": "1000000000000"
+		}
+	}
+]
